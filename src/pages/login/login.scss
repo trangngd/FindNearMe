@@ -31,6 +31,9 @@ page-login {
      margin: auto;
      }
     
+     span {
+         text-decoration: italic, underline;
+     }
      .text {
      text-align: center;
      margin-top: 30vh;
@@ -42,6 +45,9 @@ page-login {
     
      .myButton {
      margin-top: 8vh;
+     color:#ffffff;
      width: 74%;
+     background-color: #488aff;
+     
     }
 }
